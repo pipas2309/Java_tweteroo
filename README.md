@@ -5,7 +5,7 @@
 
   <h3 align="center">Tweteroo</h3>
   <div align="center">
-    Project of Driven Education - Acceleration
+    Project of Driven Education - JAVA Acceleration
     <br />
   </div>
   <div align="center">
