@@ -1,9 +1,9 @@
 package com.tweteroo.api.dto;
 
-public record UserDTO (
+public record UserDTO(
 
     String username,
     String avata  
     
-){     
+) {     
 }
