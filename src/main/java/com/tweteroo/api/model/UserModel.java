@@ -17,7 +17,7 @@ public class UserModel {
 
     public UserModel(UserDTO user) {
         this.username = user.username();
-        this.avatar = user.avata();
+        this.avatar = user.avatar();
     }
 
     @Id
